@@ -1,6 +1,6 @@
 ## 🚀 Welcome to z/OS Open Tools
 
-![z/OS Open Tools Community](https://user-images.githubusercontent.com/your-image-link-here)
+![z/OS Open Tools Community](zosopentools.png)
 
 Dive into the vibrant ecosystem of z/OS Open Source tools! With over **170+ projects** and a thriving community, we're shaping the future of z/OS development.
 
