@@ -12,8 +12,8 @@ Welcome to the vibrant community of z/OS Open Source tools! With over **170+ pro
 
 - **Start Here**: Jumpstart your z/OS Open Tools journey with our [Quick Start Guide](https://zosopentools.github.io/meta/#/Guides/QuickStart.md).
 - **Discover**: Browse our [z/OS Open Tools repositories](https://github.com/orgs/ZOSOpenTools/repositories) for the latest tools.
-- **Status Check**: Stay informed with our [progress](https://zosopentools.github.io/meta/#/Progress)
-- **Issues**: We'd love hear your feedback. Discoverd a problem? Open an [issue](https://github.com/ZOSOpenTools/meta/issues).
+- **Status Check**: Stay informed with our [progress](https://zosopentools.github.io/meta/#/Progress).
+- **Issues**: We'd love hear your feedback. Discovered a bug? Open an [issue](https://github.com/ZOSOpenTools/meta/issues).
 ---
 
 ### 🤝 Collaborate & Contribute
