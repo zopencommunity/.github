@@ -4,7 +4,7 @@
   <img src="profile/zosopentools.png" alt="z/OS Open Tools Community" height="200em" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-Welcome to the vibrant community of z/OS Open Source tools! With over **170+ projects** and a thriving community, we're shaping the future of open source z/OS development.
+Welcome to the vibrant community of z/OS Open Source tools! With over **170+ projects** and a thriving community, we're shaping the future of z/OS open source development.
 
 ---
 
