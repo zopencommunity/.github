@@ -14,7 +14,7 @@
 - **Start Here**: Jumpstart your z/OS Open Tools journey with our [Quick Start Guide](https://zosopentools.github.io/meta/#/Guides/QuickStart.md).
 - **Discover**: Browse our [z/OS Open Tools repositories](https://github.com/orgs/ZOSOpenTools/repositories) for the latest tools.
 - **Status Check**: Stay informed with our [progress](https://zosopentools.github.io/meta/#/Progress).
-- **Issues**: We'd love hear your feedback. Discovered a bug? Open an [issue](https://github.com/ZOSOpenTools/meta/issues).
+- **Issues**: We'd love to hear your feedback. Discovered a bug? Open an [issue](https://github.com/ZOSOpenTools/meta/issues).
 - **Security**: Ensuring the security and integrity of our tools is our utmost priority. Stay updated with security announcements by visiting our [security discussions](https://github.com/orgs/ZOSOpenTools/discussions/categories/security).
 ---
 
