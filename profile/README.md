@@ -30,3 +30,4 @@
 
 Your passion drives our progress. Engage, innovate, and collaborate to elevate the z/OS Open Tools community.
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8779/badge)](https://www.bestpractices.dev/projects/8779)
