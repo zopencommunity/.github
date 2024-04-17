@@ -29,5 +29,6 @@
 ### 📣 Let's Shape the Future Together!
 
 Your passion drives our progress. Engage, innovate, and collaborate to elevate the z/OS Open Tools community.
+- **Fill our survey**: [Fill our survey](https://forms.gle/A6U4jz1GpC9RqnfD7) to help shape the future of z/OS Open Tools.
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8779/badge)](https://www.bestpractices.dev/projects/8779)
