@@ -1,7 +1,7 @@
 ## Welcome to z/OS Open Tools
 
 <p align="center">
-  <img src="profile/zosopentools_box.png" alt="z/OS Open Tools Community" height="250em" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="zosopentools_box.png" alt="z/OS Open Tools Community" height="250em" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
   Welcome to the vibrant community of z/OS Open Source tools! With over **200+ projects** and a thriving community, we're shaping the future of z/OS open source development.
