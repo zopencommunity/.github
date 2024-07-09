@@ -1,4 +1,4 @@
-## Welcome to z/OS Open Tools
+## Welcome to z/OS Open Tools (ZOT)
 
 <p align="center">
   <img src="zot_chop-grey.png" alt="z/OS Open Tools Community" height="250em" style="display: block; margin-left: auto; margin-right: auto;"/>
