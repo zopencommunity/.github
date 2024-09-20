@@ -1,7 +1,7 @@
-## Welcome to z/OS Open Tools (ZOT)
+## Welcome to zopen community
 
 <p align="center">
-  <img src="zot_chop-grey.png" alt="z/OS Open Tools Community" height="250em" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="zopen_community.jpeg" alt="zopen community" height="250em" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
   Welcome to the vibrant community of z/OS Open Source tools! With over **200+ projects** and a thriving community, we're shaping the future of z/OS open source development.
@@ -11,8 +11,8 @@
 
 ### 🛠️ Explore & Engage
 
-- **Start Here**: Jumpstart your z/OS Open Tools journey with our [Quick Start Guide](https://zosopentools.github.io/meta/#/Guides/QuickStart.md).
-- **Discover**: Browse our [z/OS Open Tools repositories](https://github.com/orgs/ZOSOpenTools/repositories) for the latest tools.
+- **Start Here**: Jumpstart your zopen community journey with our [Quick Start Guide](https://zosopentools.github.io/meta/#/Guides/QuickStart.md).
+- **Discover**: Browse our [zopen community repositories](https://github.com/orgs/ZOSOpenTools/repositories) for the latest tools.
 - **Status Check**: Stay informed with our [progress](https://zosopentools.github.io/meta/#/Progress).
 - **Issues**: We'd love to hear your feedback. Discovered a bug? Open an [issue](https://github.com/ZOSOpenTools/meta/issues).
 - **Security**: Ensuring the security and integrity of our tools is our utmost priority. Stay updated with security announcements by visiting our [security discussions](https://github.com/orgs/ZOSOpenTools/discussions/categories/security).
@@ -28,7 +28,7 @@
 
 ### 📣 Let's Shape the Future Together!
 
-Your passion drives our progress. Engage, innovate, and collaborate to elevate the z/OS Open Tools community.
-- **Fill our survey**: [Fill our survey](https://forms.gle/A6U4jz1GpC9RqnfD7) to help shape the future of z/OS Open Tools.
+Your passion drives our progress. Engage, innovate, and collaborate to elevate the zopen community community.
+- **Fill our survey**: [Fill our survey](https://forms.gle/A6U4jz1GpC9RqnfD7) to help shape the future of zopen community.
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8779/badge)](https://www.bestpractices.dev/projects/8779)
