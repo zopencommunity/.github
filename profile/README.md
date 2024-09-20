@@ -1,7 +1,7 @@
-## Welcome to zopen community
+## Welcome to the zopen community!
 
 <p align="center">
-  <img src="zopen_community.jpeg" alt="zopen community" height="250em" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img src="zopen_community.jpeg" alt="zopen community" height="350em" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
   Welcome to the vibrant community of z/OS Open Source tools! With over **200+ projects** and a thriving community, we're shaping the future of z/OS open source development.
