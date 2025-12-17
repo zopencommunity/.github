@@ -4,7 +4,7 @@
   <img src="zopen-community_horizontal-color-omp.png" alt="zopen community" height="250em" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-  Welcome to the zopen community, a vibrant z/OS open source community! With over **200+ projects** and a thriving community, we're shaping the future of z/OS open source development.
+  Welcome to the zopen community, a vibrant z/OS open source community! With over **300+ projects** and a thriving community, we're shaping the future of z/OS open source development.
 
 
 ---
