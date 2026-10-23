@@ -15,7 +15,6 @@
 - **Discover**: Browse our [zopen community repositories](https://github.com/orgs/zopencommunity/repositories) for the latest tools.
 - **Status Check**: Stay informed with our [progress](https://zopen.community/#/Progress).
 - **Issues**: We'd love to hear your feedback. Discovered a bug? Open an [issue](https://github.com/zopencommunity/meta/issues).
-- **Security**: Ensuring the security and integrity of our tools is our utmost priority. Stay updated with security announcements by visiting our [security discussions](https://github.com/orgs/zopencommunity/discussions/categories/security).
 ---
 
 ### 🤝 Collaborate & Contribute
